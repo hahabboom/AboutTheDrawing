@@ -1,16 +1,18 @@
 # AboutTheDrawing
 这里记录一下怎么绘出这样
 
-![1589438502351](https://github.com/hahabboom/img-store/blob/master/1589438476594.png?raw=true)
+![原始回波](https://github.com/hahabboom/img-store/blob/master/1589438476594.png?raw=true)
 
 这样
 
-![1589438758226](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438758226.png)
+![原始回波](https://github.com/hahabboom/img-store/blob/master/1589438502351.png?raw=true)
 
 这样
 
-![1589438794241](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438794241.png)
+![风羽图](https://github.com/hahabboom/img-store/blob/master/1589438758226.png?raw=true)
+以及这样
 
+![折射率结构常数](https://github.com/hahabboom/img-store/blob/master/1589438794241.png?raw=true)
 等等等等的图。。。。。。。（这些图啥意思我也看不懂。。。反正画就完事了。。。:expressionless:）
 
 1. 首先 ，这些图的数据量很大，一小时会有2、3M，所以后端给的是二进制数据流，我们需要将数据先解析出来
