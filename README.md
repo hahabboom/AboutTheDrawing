@@ -1,7 +1,7 @@
 # AboutTheDrawing
 这里记录一下怎么绘出这样
 
-![1589438502351](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438502351.png)
+![1589438502351](https://github.com/hahabboom/img-store/blob/master/1589438476594.png?raw=true)
 
 这样
 
