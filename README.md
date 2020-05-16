@@ -1,1 +1,20 @@
 # AboutTheDrawing
+这里记录一下怎么绘出这样
+
+![1589438502351](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438502351.png)
+
+这样
+
+![1589438758226](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438758226.png)
+
+这样
+
+![1589438794241](C:\Users\Damo\AppData\Roaming\Typora\typora-user-images\1589438794241.png)
+
+等等等等的图。。。。。。。（这些图啥意思我也看不懂。。。反正画就完事了。。。:expressionless:）
+
+1. 首先 ，这些图的数据量很大，一小时会有2、3M，所以后端给的是二进制数据流，我们需要将数据先解析出来
+2. 然后根据将数据整合成我们需要的格式（根据不同产品图来调整）
+3. 最后就是使用数据来画图了（画图方式有很多，有echarts的画法，也可以用canvas，我这里几个图是用的echarts的方法来绘制）
+
+:expressionless:。。。行吧  步骤很简单。。。绘制方法就看代码吧
